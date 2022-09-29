@@ -34,9 +34,9 @@ To analyze the result,
 1. The total number of votes cast in this election is 369,711.
 
 2. On a county-by-county basis, the percentile order is:
-* Denver (82.8%) - 306,055 votes
-* Jefferson (10.5%) - 38,855 votes
-* Arapahoe (6.7%) - 24,801 votes
+* Denver (82.8%) - 306,055 votes,
+* Jefferson (10.5%) - 38,855 votes,
+* Arapahoe (6.7%) - 24,801 votes.
 
 3. The county with the highest votes was Denver.
 
@@ -50,9 +50,9 @@ To analyze the result,
 ## Election - Audit Summary
 
 1. The counties that need to be analyzed in the selection are as written below.
-* Jefferson
-* Denver and
-* Arapahoe
+* Jefferson,
+* Denver,
+* Arapahoe.
 
 2. When it is necessary to write the county results,
 * Jefferson County received 10.5 percent of the total vote.
