@@ -40,10 +40,10 @@ To analyze the result,
 
 3. The county with the highest votes was Denver.
 
-4. Ranking from the candidate with the most votes to the candidate with the least votes:
-*	Diana DeGette (272,892 votes - 73.8% total of votes)
-*	Charles Casper Stockham (85,213 votes - 23.0% total of votes)
-*	Raymon Anthony Doane (11,606 votes - 3.1% total of votes)
+4. Ranking from the candidate with the most votes to the candidate with the least votes;
+*	Diana DeGette (272,892 votes - 73.8% total of votes),
+*	Charles Casper Stockham (85,213 votes - 23.0% total of votes),
+*	Raymon Anthony Doane (11,606 votes - 3.1% total of votes).
 
 5. As a result of the analysis, the winner of the election was Diana DeGette. The total number of votes it received was 272,892 and the percentage of votes it received was calculated as 73.8%.
 
