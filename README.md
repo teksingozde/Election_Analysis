@@ -23,7 +23,7 @@ The following items are included in line with the information requested by the C
 * The total number of votes each county has and
 * Determining the name of the elector with the highest number of votes in choice is the number of votes it received and the percentage of success.
 
-### Election - Audit Results
+## Election - Audit Results
 
 In order to analyze the selection results, a code was written in the Python programming language and this code was run on the terminal. The output of the selection analysis is as seen below.
 
@@ -61,7 +61,7 @@ To analyze the result,
 
 3. The county with the highest voter turnout became Denver with 82.8 percent of the total votes. A total of 306,055 votes were cast in Denver County.
 
-## Python Programming Summary
+### Python Programming Summary
 
 While doing this selection analysis, it was decided to use python as the programming language. Python programming language, advanced code structure and high reliability analysis helped us to get the results. In general, the requirements for this analysis are; the number of votes cast in the entire election, the number of votes cast by the districts, the number of votes received by the electorate, and the percentages of all these analyses. In addition, a code was written for the determination of the voters and districts that received the most votes in the analysis. However, it is also possible to do more advanced analysis in the Python programming language. For this, more advanced codes and analysis methods can be used. Using VS Code while performing the analysis made it fun to work with its colorful interface.
 
